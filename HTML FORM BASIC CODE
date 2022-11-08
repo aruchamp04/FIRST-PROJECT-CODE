@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <h3 ALIGN ="CENTER">GOOGLE FORM</h3>
+        <hr>
+        <h2 align ="center">FESTA 2K22</h2>
+        <p>
+            HELLO FRIENDS!!!!<br>
+            WE ARE HAPPY TO ANOUNANCE THE EVENT <b>FESTA 2K22</b><br><br>
+            ENTER THE VALID DETAILS..!!
+            <form>
+               <p>NAME OF THE PARTICIPANT:</p><input type ="text" name ="USER NAME" placeholder ="NAME"maxlength  ="20"<br>
+               
+               <p>CONTACT NUMBER:</p><input type ="text" name = "NUMBER" placeholder ="WHATSUP NO" max length ="10"<br>
+               <p>NAME OF THE INSTITUTE:</p><input type ="text" name ="INSTITUTE NAME" placeholder ="INSTITUTE NAME" maxlength ="50"<br>
+               <p>ADDRESS:</p><input type ="text" name = "ADDRESS" placeholder ="ADD" maxlength ="100"<br>
+               <P>
+               <input type ="submit" value ="SUBMIT"</P>
+               <p>
+                   <a href = "#DETAILS">VENUE</a>
+               </p>
+               <p>
+                   <H4 id ="DETAILS">place:Hosur<br>
+                   date: 04.12.2022</H4>
+                  
+                   
+               </p>
+                  <p>
+                   <h3 align ="center">
+                       THANK YOU!! HOPE SEE YOU SOON</h3>
+                   </h3>
+               </P>
+            </form>
+            
+            
+        </p>
+    </head>
+</html>
